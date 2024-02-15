@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # SenaiGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+=======
+# GamesStore
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+>>>>>>> 106085e2709c6f7f8c51f9e436373ed8c66dd901
 
 ## Development server
 
