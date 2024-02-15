@@ -1,18 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # SenaiGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
-=======
-# GamesStore
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
->>>>>>> 106085e2709c6f7f8c51f9e436373ed8c66dd901
-=======
-# LojaGames
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
->>>>>>> parent of 5f6f2b4 (create 63 files, update 33 files, copy 1 file and delete 29 files)
 
 ## Development server
 
