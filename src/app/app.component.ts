@@ -1,24 +1,11 @@
-import { Component, OnDestroy, OnInit } from "@angular/core";
-import { LoginService } from "./login.service";
+import { Component } from '@angular/core';
+import { CardPromoGameComponent } from './shared/card-promo-game/card-promo-game.component';
 
 @Component({
-  selector: "app-root",
-  templateUrl: "./app.component.html",
-  styleUrls: ["./app.component.css"],
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit, OnDestroy {
-  title = "Senai Games";
-  mostrarMenu: boolean = true;
-
-  constructor(private _loginService: LoginService) {}
-
-  ngOnInit(): void {
-    this._loginService.getMostraMenu().subscribe((res) => {
-      this.mostrarMenu = res;
-    });
-  }
-
-  ngOnDestroy() {
-    localStorage.clear();
-  }
+export class AppComponent {
+  title = 'LH Games';
 }
