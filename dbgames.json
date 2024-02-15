@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "foto": "tloujogo.png",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "foto": "fifa.png",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "foto": "cod.png",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Jogo 4 modificado",
+      "descricao": "jogo modificado",
+      "foto": "ps5.png",
+      "preco": 5000
+    }
+  ]
+}
